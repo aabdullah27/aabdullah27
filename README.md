@@ -17,7 +17,7 @@
 
 ### 💬 Let’s Connect
 - 🤝 I’m open to collaborating on **AI Projects**, **Automation Tools**, and other exciting tech ideas
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-py-dev/), [Instagram](https://www.instagram.com/@abdllah._.77), or email me at: **your-email@example.com**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-abdullah-py-dev/), [Instagram](https://www.instagram.com/abdllah._.77/), or email me at: **my.abdullah.nauman@gmail.com**
 
 ### ⚡ Fun Fact
 - I discovered my love for coding at a young age, and **Python** has been my go-to language ever since!
