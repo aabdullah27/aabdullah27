@@ -16,42 +16,52 @@ Welcome to my tech stack! Here's a comprehensive list of the technologies, libra
 ---
 
 ### 🐍 Python Developer
+![Python](https://cdn-icons-png.flaticon.com/512/1124/1124951.png)  
 - **Python** 🐍
 - Flask, Django, FastAPI, Streamlit
 - Pandas, NumPy, Matplotlib, Seaborn
 - scikit-learn, PyAutoGUI
 
 ### 🤖 Generative AI & RAG Systems
+![AI](https://cdn-icons-png.flaticon.com/512/5008/5008351.png)  
 - LangChain, Hugging Face 🤗, LlamaIndex
 - FAISS, Groq, Agentic Behavior (LangChain Agents)
 - Crew AI
 
 ### 🕵 AI Agents & Automation
+![Agent](https://cdn-icons-png.flaticon.com/512/2284/2284420.png)  
 - AI Automation using LangChain Agents
 - Selenium, BeautifulSoup
 - Email Automation (smtplib)
 
 ### 📊 Data Analysis & Automation
+![Data](https://cdn-icons-png.flaticon.com/512/7227/7227451.png)  
 - Pandas, NumPy, scikit-learn 📊
 - Data visualization with Matplotlib and Seaborn
 
 ### 🧩 Python (OOP)
+![OOP](https://cdn-icons-png.flaticon.com/512/648/648597.png)  
 - Object-Oriented Programming (OOP)
 - Integration with APIs (REST & GraphQL)
 
 ### 🐧 Linux OS
+![Linux](https://cdn-icons-png.flaticon.com/512/1197/1197071.png)  
 - Ubuntu, Bash Scripting 🐧
 
 ### 🛢️ Databases
+![MySQL](https://cdn-icons-png.flaticon.com/512/174/174869.png)  
 - MySQL, SQLite
 
 ### 🔄 Version Control & Collaboration
+![Git](https://cdn-icons-png.flaticon.com/512/2111/2111624.png)  
 - Git, GitHub, GitLab
 
 ### 💻 Development Tools
+![VSCode](https://cdn-icons-png.flaticon.com/512/919/919851.png)  
 - Visual Studio Code, Jupyter Notebook, PyCharm
 
 ### 🧰 Miscellaneous Tools
+![Docker](https://cdn-icons-png.flaticon.com/512/919/919851.png)  
 - Docker 🐳, Web Scraping 🕸️
 
 ---
