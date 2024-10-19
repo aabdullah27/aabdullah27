@@ -10,17 +10,18 @@
 ⚙️ Building solutions that integrate seamlessly with **APIs and databases**
 
 ## 💻 Tech Stack
-**Languages**:  
-![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)  
 
-**Frameworks & Libraries**:  
-![Streamlit](https://img.icons8.com/color/48/000000/streamlit.png) ![LangChain](https://img.icons8.com/color/48/000000/language.png) ![Pandas](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-pandas-a-software-library-written-for-the-python-programming-language-logo-shadow-tal-revivo.png)  
-![Scrapy](https://img.icons8.com/ios-filled/50/000000/spider-web.png) ![LlamaIndex](https://img.icons8.com/color/48/000000/llama.png) ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png)
+### **Languages**:  
+![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/external-flat-juicy-fish/48/000000/external-sql-coding-and-development-flat-flat-juicy-fish.png)  
 
-**Databases**:  
+### **Frameworks & Libraries**:  
+![Streamlit](https://avatars.githubusercontent.com/u/45109972?s=200&v=4) ![LangChain](https://avatars.githubusercontent.com/u/105889323?s=200&v=4) ![Pandas](https://img.icons8.com/ios-filled/50/000000/pandas.png)  
+![Scrapy](https://img.icons8.com/color/48/000000/spider-web.png) ![LlamaIndex](https://img.icons8.com/color/48/000000/llama.png) ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png)
+
+### **Databases**:  
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)  
 
-**Tools**:  
+### **Tools**:  
 ![Git](https://img.icons8.com/color/48/000000/git.png) ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## 🎯 Hobbies & Interests
