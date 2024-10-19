@@ -10,10 +10,18 @@
 ⚙️ Building solutions that integrate seamlessly with **APIs and databases**
 
 ## 💻 Tech Stack
-**Languages**: Python, SQL, HTML, CSS  
-**Frameworks & Libraries**: Streamlit, LangChain, Pandas, Scrapy, LlamaIndex, Hugging Face  
-**Databases**: MySQL, SQLite  
-**Tools**: Git, Jupyter Notebook, VS Code
+**Languages**:  
+![Python](https://img.icons8.com/color/48/000000/python.png) ![SQL](https://img.icons8.com/ios-filled/50/000000/sql.png)  
+
+**Frameworks & Libraries**:  
+![Streamlit](https://img.icons8.com/color/48/000000/streamlit.png) ![LangChain](https://img.icons8.com/color/48/000000/language.png) ![Pandas](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-pandas-a-software-library-written-for-the-python-programming-language-logo-shadow-tal-revivo.png)  
+![Scrapy](https://img.icons8.com/ios-filled/50/000000/spider-web.png) ![LlamaIndex](https://img.icons8.com/color/48/000000/llama.png) ![Hugging Face](https://img.icons8.com/color/48/000000/hugging-face.png)
+
+**Databases**:  
+![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![SQLite](https://img.icons8.com/color/48/000000/sqlite.png)  
+
+**Tools**:  
+![Git](https://img.icons8.com/color/48/000000/git.png) ![Jupyter](https://img.icons8.com/color/48/000000/jupyter.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
 
 ## 🎯 Hobbies & Interests
 🏏 Playing and watching **Cricket**  
@@ -21,9 +29,9 @@
 🏹 Enjoying **Hunting** adventures
 
 ## 📱 Social Media & Contact
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aabdullah27) **LinkedIn**  
-- [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/aabdullah27) **Instagram**  
-- [![Email](https://img.icons8.com/color/48/000000/apple-mail.png)](mailto:my.abdullah.nauman@gmail.com) **Email**: my.abdullah.nauman@gmail.com
+- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aabdullah27)
+- [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/aabdullah27)
+- [![Email](https://img.icons8.com/color/48/000000/apple-mail.png)](mailto:my.abdullah.nauman@gmail.com): my.abdullah.nauman@gmail.com
 
 ## ⚡ Fun Fact
 I discovered my love for coding at a young age, and **Python** has been my go-to language ever since!
