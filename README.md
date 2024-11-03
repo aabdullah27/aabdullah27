@@ -1,77 +1,37 @@
-# 🚀 About Me
-👋 Hi, I’m Abdullah (@aabdullah27)  
-👨‍💻 **Python Developer** with a passion for **AI, Automation, RAG, and Data Analysis**  
-🤖 Currently exploring **Generative AI** and **Web Scraping** to build innovative solutions  
-🐍 Skilled in using libraries like **Pandas, Scrapy, Streamlit, LangChain**, and more
+# 👋 Hi, I'm Abdullah (@aabdullah27)
+
+**Python Developer** passionate about **AI**, **Automation**, and **Data Analysis**. Currently diving into **Generative AI** and **Web Scraping** to create innovative solutions.
 
 ## 💼 What I Do
-🌐 Developing **AI-powered apps** and **automation tools**  
-📊 Creating **interactive dashboards** for **data analysis**  
-⚙️ Building solutions that integrate seamlessly with **APIs and databases**
+- Develop **AI-powered applications** and **automation tools**
+- Create **interactive dashboards** for insightful data analysis
+- Build seamless integrations with **APIs** and **databases**
 
-# 🛠️ My Tech Stack
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="43" height="43" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="43" height="43" /></div>
-Welcome to my tech stack! Here's a comprehensive list of the technologies, libraries, and tools I work with, categorized based on my expertise:
+## 🛠️ Tech Stack
+<div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
+</div>
 
----
+### Key Technologies:
+- **Languages:** Python, SQL
+- **Frameworks:** Flask, Django, Streamlit
+- **Libraries:** Pandas, NumPy, scikit-learn, LangChain
+- **Tools:** Docker, Git, Jupyter Notebook
 
-### 🐍 Python Developer
-- **Python** 🐍
-- Flask, Django, FastAPI, Streamlit
-- Pandas, NumPy, Matplotlib, Seaborn
-- scikit-learn, PyAutoGUI
+## 🎯 Hobbies
+- 🏏 Cricket enthusiast
+- 🍳 Cooking and experimenting with new recipes
+- 🏹 Outdoor hunting adventures
 
-### 🤖 Generative AI & RAG Systems
-- LangChain, Hugging Face 🤗, LlamaIndex
-- FAISS, Groq, Agentic Behavior (LangChain Agents)
-- Crew AI
-
-### 🕵 AI Agents & Automation
-- AI Automation using LangChain Agents
-- Selenium, BeautifulSoup
-- Email Automation (smtplib)
-
-### 📊 Data Analysis & Automation
-- Pandas, NumPy, scikit-learn 📊
-- Data visualization with Matplotlib and Seaborn
-
-### 🧩 Python (OOP)
-- Object-Oriented Programming (OOP)
-- Integration with APIs (REST & GraphQL)
-
-### 🐧 Linux OS
-- Ubuntu, Bash Scripting 🐧
-
-### 🛢️ Databases
-- MySQL, SQLite
-
-### 🔄 Version Control & Collaboration
-- Git, GitHub, GitLab
-
-### 💻 Development Tools
-- Visual Studio Code, Jupyter Notebook, PyCharm
-
-### 🧰 Miscellaneous Tools
-- Docker 🐳, Web Scraping 🕸️
-
----
-
-> 💡 **Note**: I am constantly exploring new technologies and enhancing my skills in Python, Generative AI, and data automation.
-
-Explore my repositories for practical examples of these technologies in action! 🎯
-
-
-## 🎯 Hobbies & Interests
-🏏 Playing and watching **Cricket**  
-🍳 Experimenting with new **Cooking recipes**  
-🏹 Enjoying **Hunting** adventures
-
-## 📱 Social Media & Contact
+## 📱 Connect with Me
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aabdullah27)
 - [![Instagram](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://www.instagram.com/aabdullah27)
 - [![Email](https://img.icons8.com/color/48/000000/apple-mail.png)](mailto:my.abdullah.nauman@gmail.com)
 
 ## ⚡ Fun Fact
-I discovered my love for coding at a young age, and **Python** has been my go-to language ever since!
+I fell in love with coding early on, and Python has been my language of choice ever since!
 
 😄 Pronouns: **He/Him**
