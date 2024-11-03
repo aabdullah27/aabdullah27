@@ -17,14 +17,13 @@
 
 ### Key Technologies:
 - **Languages:** Python, SQL
-- **Frameworks:** Flask, Django, Streamlit
-- **Libraries:** Pandas, NumPy, scikit-learn, LangChain
+- **Libraries:** Pandas, NumPy, Llama-index, LangChain
 - **Tools:** Docker, Git, Jupyter Notebook
 
 ## 🎯 Hobbies
 - 🏏 Cricket enthusiast
-- 🍳 Cooking and experimenting with new recipes
-- 🏹 Outdoor hunting adventures
+- 🍳 Cooking 
+- 🏹 Outdoor hunting 
 
 ## 📱 Connect with Me
 - [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/aabdullah27)
@@ -33,5 +32,4 @@
 
 ## ⚡ Fun Fact
 I fell in love with coding early on, and Python has been my language of choice ever since!
-
-😄 Pronouns: **He/Him**
+Pronouns: **He/Him**
