@@ -7,14 +7,6 @@
 - Create **interactive dashboards** for insightful data analysis
 - Build seamless integrations with **APIs** and **databases**
 
-## 🛠️ Tech Stack
-<div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="40" height="40" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="40" height="40" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="40" height="40" />
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="40" height="40" />
-</div>
-
 ### Key Technologies:
 - **Languages:** Python, SQL
 - **Libraries:** Pandas, NumPy, Llama-index, LangChain
