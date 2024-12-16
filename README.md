@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah (@aabdullah27)
 
-**Python Developer** passionate about **AI**, **Automation**, and **Data Analysis**. Currently diving into **Generative AI** and **Web Scraping** to create innovative solutions.
+**Python Developer** passionate about **AI**, **Automation**, and **Data Analysis**. Currently diving into **Generative AI** and **Data Science** to create innovative solutions.
 
 ## 💼 What I Do
 - Develop **AI-powered applications** and **automation tools**
