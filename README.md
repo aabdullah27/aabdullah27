@@ -3,7 +3,7 @@
 
 ## 🙋‍♂️ About me
 
-![profile view count](https://github.com/aabdullah27)
+![profile view count]([https://github.com/](https://komarev.com/ghpvc/?username=aabdullah27)
 
 I'm from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models. When I’m not fixing bugs or working on new ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
 
