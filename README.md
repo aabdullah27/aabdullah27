@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate AI Engineer with a strong focus on Generative AI, backend development, and scalable solutions.</h3>
 
-- 🔭 I’m currently working on [EAD Backend by Techno Group]()
+- 🔭 I’m currently working on [EAD Backend by Techno Group]
 
 - 🌱 I’m currently learning **ML/DL, Backend Architectures**
 
