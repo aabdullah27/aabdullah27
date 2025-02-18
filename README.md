@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-abdullah-py-dev/](https://www.linkedin.com/in/muhammad-abdullah-py-dev/)
 
-- 💬 Ask me about **AI Consultation, Generative AI, Python**
+- 💬 Ask me about **AI Consultations, Generative AI, Python**
 
 - 📫 How to reach me **my.abdullah.nauman@gmail.com**
 
