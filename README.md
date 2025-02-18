@@ -9,11 +9,11 @@ I’m from Pakistan and a huge fan of Python and Generative AI, especially Multi
 
 - 🔭 I’m currently working as **Backend and AI Engineer on EAD Project by Techno Group**
 
-- 🌱 I’m currently learning **ML/DL, Backend Architectures**
+- 🌱 I’m currently learning **ML/DL, FM development and Backend Architectures**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-abdullah-py-dev/](https://www.linkedin.com/in/muhammad-abdullah-py-dev/)
 
-- 💬 Ask me about **AI Consultations, Generative AI, Python**
+- 💬 Ask me about **AI Consultations/Research, Generative AI, Python**
 
 - 📫 How to reach me **my.abdullah.nauman@gmail.com**
 
