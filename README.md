@@ -5,7 +5,7 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=aabdullah27)
 
-I'm from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models. When I’m not fixing bugs or working on new ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
+I’m from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models—and sometimes even getting behind the models themselves (because curiosity is a tough habit to break 😆). When I’m not fixing bugs or building ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
 
 - 🔭 I’m currently working as **Backend and AI Engineer on EAD Project by Techno Group**
 
