@@ -5,15 +5,15 @@
 
 ![profile view count](https://komarev.com/ghpvc/?username=aabdullah27)
 
-I’m from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models—and sometimes even getting behind the models themselves (because curiosity is a tough habit to break 😆). When I’m not fixing bugs or building ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
+I’m from Pakistan and a huge fan of Python and Generative AI, especially Multimodal LLMs. I love building software around foundation models—and sometimes even getting behind them (because curiosity is a tough habit to break 😆). When I’m not fixing bugs or building ideas, you’ll find me playing cricket 🏏, hunting 🎯, target shooting 🔫, lifting weights 🏋️, or spending time with friends and family.
 
-- 🔭 I’m currently working as **Backend and AI Engineer on EAD Project by Techno Group**
+- 🔭 I’m currently working as a **Backend and AI Engineer at Techno Group**
 
-- 🌱 I’m currently learning **ML/DL, FM development and Backend Architectures**
+- 🌱 I’m currently learning **Finetuning, FM development and Backend Architectures**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/muhammad-abdullah-py-dev/](https://www.linkedin.com/in/muhammad-abdullah-py-dev/)
 
-- 💬 Ask me about **AI Consultations/Research, Generative AI, Python**
+- 💬 Ask me about **AI Consultations/Research, Generative AI**
 
 - 📫 How to reach me **my.abdullah.nauman@gmail.com**
 
