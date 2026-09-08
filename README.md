@@ -10,6 +10,6 @@ I’m from Pakistan and a huge fan of Python and GenAI, especially Multimodal LL
 
 - 🌱 I’m currently learning **Finetuning, FM development and Backend Architectures**
 
-- 👨‍💻 All about me @ [https://www.linkedin.com/in/muhammad-abdullah-py-dev/](https://www.linkedin.com/in/aabdullah27/)
+- 👨‍💻 All about me @ [my LinkedIn/](https://www.linkedin.com/in/aabdullah27/)
 
 - 📫 How to reach me: **my.abdullah.nauman@gmail.com**
