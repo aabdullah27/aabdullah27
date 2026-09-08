@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Abdullah</h1>
----
+
 🙋‍♂️ About me
 
 ![profile view count](https://komarev.com/ghpvc/?username=aabdullah27)
